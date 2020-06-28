@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-template/css/main.186ae262.chunk.css",
-    "main.js": "/react-template/js/main.e5938325.chunk.js",
-    "main.js.map": "/react-template/js/main.e5938325.chunk.js.map",
-    "runtime-main.js": "/react-template/js/runtime-main.206ac5b9.js",
-    "runtime-main.js.map": "/react-template/js/runtime-main.206ac5b9.js.map",
-    "react-template/js/2.69a39dfa.chunk.js": "/react-template/js/2.69a39dfa.chunk.js",
-    "react-template/js/2.69a39dfa.chunk.js.map": "/react-template/js/2.69a39dfa.chunk.js.map",
+    "main.js": "/react-template/react-template/js/main.e5938325.chunk.js",
+    "main.js.map": "/react-template/react-template/js/main.e5938325.chunk.js.map",
+    "runtime-main.js": "/react-template/react-template/js/runtime-main.206ac5b9.js",
+    "runtime-main.js.map": "/react-template/react-template/js/runtime-main.206ac5b9.js.map",
+    "react-template/react-template/js/2.69a39dfa.chunk.js": "/react-template/react-template/js/2.69a39dfa.chunk.js",
+    "react-template/react-template/js/2.69a39dfa.chunk.js.map": "/react-template/react-template/js/2.69a39dfa.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4c64839945fd51add1e4b32fc9eb2c8e.js": "/precache-manifest.4c64839945fd51add1e4b32fc9eb2c8e.js",
+    "precache-manifest.08d4eade96a6aae005ecb131b1751f31.js": "/precache-manifest.08d4eade96a6aae005ecb131b1751f31.js",
     "react-template/css/main.186ae262.chunk.css.map": "/react-template/css/main.186ae262.chunk.css.map",
-    "react-template/js/2.69a39dfa.chunk.js.LICENSE.txt": "/react-template/js/2.69a39dfa.chunk.js.LICENSE.txt",
+    "react-template/react-template/js/2.69a39dfa.chunk.js.LICENSE.txt": "/react-template/react-template/js/2.69a39dfa.chunk.js.LICENSE.txt",
     "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
-    "react-template/js/runtime-main.206ac5b9.js",
-    "react-template/js/2.69a39dfa.chunk.js",
+    "react-template/react-template/js/runtime-main.206ac5b9.js",
+    "react-template/react-template/js/2.69a39dfa.chunk.js",
     "react-template/css/main.186ae262.chunk.css",
-    "react-template/js/main.e5938325.chunk.js"
+    "react-template/react-template/js/main.e5938325.chunk.js"
   ]
 }
