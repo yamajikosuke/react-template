@@ -167,13 +167,13 @@ module.exports = function (webpackEnv) {
       // In development, it does not produce real files.
       filename: isEnvProduction
         ? "react-template/js/[name].[contenthash:8].js"
-        : isEnvDevelopment && "js/bundle.js",
+        : isEnvDevelopment && "react-template/js/bundle.js",
       // TODO: remove this when upgrading to webpack 5
       futureEmitAssets: true,
       // There are also additional JS chunk files if you use code splitting.
       chunkFilename: isEnvProduction
-        ? "react-template/js/[name].[contenthash:8].chunk.js"
-        : isEnvDevelopment && "js/[name].chunk.js",
+        ? "js/[name].[contenthash:8].chunk.js"
+        : isEnvDevelopment && "react-template/js/[name].chunk.js",
       // webpack uses `publicPath` to determine where the app is being served from.
       // It requires a trailing slash, or the file assets will get an incorrect path.
       // We inferred the "public path" (such as / or /my-project) from homepage.
@@ -572,7 +572,7 @@ module.exports = function (webpackEnv) {
           // Options similar to the same options in webpackOptions.output
           // both options are optional
           filename: "react-template/css/[name].[contenthash:8].css",
-          chunkFilename: "css/[name].[contenthash:8].chunk.css",
+          chunkFilename: "react-template/css/[name].[contenthash:8].chunk.css",
         }),
       // Generate an asset manifest file with the following content:
       // - "files" key: Mapping of all asset filenames to their corresponding
