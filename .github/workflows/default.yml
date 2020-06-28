@@ -20,7 +20,6 @@ jobs:
     strategy:
       matrix:
         node-version: [8.x, 10.x, 12.x]
-    
         # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -30,11 +29,11 @@ jobs:
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
-         node-version: ${{ matrix.node-version }}
+          node-version: ${{ matrix.node-version }}
       - run: npm install
       - run: npm start
 
-    gist-sync:
+  gist-sync:
     name: gist-sync
     runs-on: ubuntu-latest
     steps:
