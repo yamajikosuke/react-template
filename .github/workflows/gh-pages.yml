@@ -37,6 +37,7 @@ jobs:
       #     restore-keys: |
       #       ${{ runner.os }}-node-
       - run: npm install
+      - run: npm install -g serve
       - run: npm run build --if-present
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -44,5 +45,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
       - name: Run serve
-      - run: npm install -g serve
       - run: serve -s build
