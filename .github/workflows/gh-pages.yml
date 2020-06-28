@@ -44,5 +44,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-      - name: Run serve
-      - run: serve -s build
+      # - name: Run serve
+      # - run: npm run serve -s build
