@@ -3,18 +3,18 @@
     "main.css": "/react-template/css/main.186ae262.chunk.css",
     "main.js": "/js/main.e5938325.chunk.js",
     "main.js.map": "/js/main.e5938325.chunk.js.map",
-    "runtime-main.js": "/js/runtime-main.206ac5b9.js",
-    "runtime-main.js.map": "/js/runtime-main.206ac5b9.js.map",
+    "runtime-main.js": "/react-template/js/runtime-main.206ac5b9.js",
+    "runtime-main.js.map": "/react-template/js/runtime-main.206ac5b9.js.map",
     "js/2.69a39dfa.chunk.js": "/js/2.69a39dfa.chunk.js",
     "js/2.69a39dfa.chunk.js.map": "/js/2.69a39dfa.chunk.js.map",
     "index.html": "/index.html",
     "js/2.69a39dfa.chunk.js.LICENSE.txt": "/js/2.69a39dfa.chunk.js.LICENSE.txt",
-    "precache-manifest.2644e9411a2aaa898beb70e3a8d43fc3.js": "/precache-manifest.2644e9411a2aaa898beb70e3a8d43fc3.js",
+    "precache-manifest.9e4fc840c6b02c3d910727334398567a.js": "/precache-manifest.9e4fc840c6b02c3d910727334398567a.js",
     "react-template/css/main.186ae262.chunk.css.map": "/react-template/css/main.186ae262.chunk.css.map",
     "service-worker.js": "/service-worker.js"
   },
   "entrypoints": [
-    "js/runtime-main.206ac5b9.js",
+    "react-template/js/runtime-main.206ac5b9.js",
     "js/2.69a39dfa.chunk.js",
     "react-template/css/main.186ae262.chunk.css",
     "js/main.e5938325.chunk.js"
