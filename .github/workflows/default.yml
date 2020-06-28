@@ -33,9 +33,9 @@ jobs:
       - run: npm install
       - run: npm run build --if-present
       - run: npm start
-      env:
-        CI: true
-        
+        env:
+          CI: true
+
   gist-sync:
     name: gist-sync
     runs-on: ubuntu-latest
