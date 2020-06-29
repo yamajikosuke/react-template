@@ -2,7 +2,7 @@
   "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "/react-template",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
@@ -71,8 +71,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js",
-    "deploy": "npm run build&&gh-pages -d build"
+    "test": "node scripts/test.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -90,8 +89,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.1.5",
-    "gh-pages": "^3.1.0"
+    "@types/react-router-dom": "^5.1.5"
   },
   "jest": {
     "roots": [
