@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-template/react-template/css/main.186ae262.chunk.css",
-    "main.js": "/react-template/react-template/js/main.ad5a24fe.chunk.js",
-    "main.js.map": "/react-template/react-template/js/main.ad5a24fe.chunk.js.map",
-    "runtime-main.js": "/react-template/react-template/js/runtime-main.c9c040d8.js",
-    "runtime-main.js.map": "/react-template/react-template/js/runtime-main.c9c040d8.js.map",
-    "react-template/js/2.69a39dfa.chunk.js": "/react-template/react-template/js/2.69a39dfa.chunk.js",
-    "react-template/js/2.69a39dfa.chunk.js.map": "/react-template/react-template/js/2.69a39dfa.chunk.js.map",
-    "index.html": "/react-template/index.html",
-    "precache-manifest.be8f62a323a2f55f0fb932fa5fea2459.js": "/react-template/precache-manifest.be8f62a323a2f55f0fb932fa5fea2459.js",
-    "react-template/css/main.186ae262.chunk.css.map": "/react-template/react-template/css/main.186ae262.chunk.css.map",
-    "react-template/js/2.69a39dfa.chunk.js.LICENSE.txt": "/react-template/react-template/js/2.69a39dfa.chunk.js.LICENSE.txt",
-    "service-worker.js": "/react-template/service-worker.js"
+    "main.css": "/static/css/main.186ae262.chunk.css",
+    "main.js": "/static/js/main.e5938325.chunk.js",
+    "main.js.map": "/static/js/main.e5938325.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.206ac5b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.206ac5b9.js.map",
+    "static/js/2.69a39dfa.chunk.js": "/static/js/2.69a39dfa.chunk.js",
+    "static/js/2.69a39dfa.chunk.js.map": "/static/js/2.69a39dfa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8df46ebf5d067699455f1adcfe501fd4.js": "/precache-manifest.8df46ebf5d067699455f1adcfe501fd4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.186ae262.chunk.css.map": "/static/css/main.186ae262.chunk.css.map",
+    "static/js/2.69a39dfa.chunk.js.LICENSE.txt": "/static/js/2.69a39dfa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "react-template/js/runtime-main.c9c040d8.js",
-    "react-template/js/2.69a39dfa.chunk.js",
-    "react-template/css/main.186ae262.chunk.css",
-    "react-template/js/main.ad5a24fe.chunk.js"
+    "static/js/runtime-main.206ac5b9.js",
+    "static/js/2.69a39dfa.chunk.js",
+    "static/css/main.186ae262.chunk.css",
+    "static/js/main.e5938325.chunk.js"
   ]
 }
