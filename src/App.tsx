@@ -9,6 +9,11 @@ export const App: React.FC = (): JSX.Element => {
     <BrowserRouter>
       <Switch>
         <Route exact path="/" render={(): JSX.Element => <Top />} />
+        <Route
+          exact
+          path="/react-template"
+          render={(): JSX.Element => <Top />}
+        />
         <Route exact path="/p1" render={(): JSX.Element => <P1 />} />
         <Route exact path="/p2" render={(): JSX.Element => <P2 />} />
       </Switch>
